@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">ATLAS</string>
+    <string name="tagline">Download. Organize. Play.</string>
+    <string name="cd_back">Back</string>
+    <string name="badge_coming_soon">Coming soon</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_downloads">Downloads</string>
+    <string name="nav_library">Library</string>
+    <string name="nav_more">More</string>
+
+    <!-- Home -->
+    <string name="home_hero_title">Start by sharing a link</string>
+    <string name="home_hero_body">Soon you will be able to share a video link from any app to ATLAS, see its details, and download it as video or as audio only.</string>
+    <string name="home_features_title">What\'s coming</string>
+    <string name="feature_video_audio_title">Video and audio downloads</string>
+    <string name="feature_video_audio_body">Download the full video, or the full audio track only.</string>
+    <string name="feature_playlists_title">Playlists</string>
+    <string name="feature_playlists_body">Choose the videos you want and download them in order.</string>
+    <string name="feature_library_title">Media library</string>
+    <string name="feature_library_body">Play and organize your files with the built-in player.</string>
+    <string name="feature_browser_title">Built-in browser</string>
+    <string name="feature_browser_body">Browse the web and send links straight to your downloads.</string>
+
+    <!-- Downloads / Library -->
+    <string name="downloads_title">Downloads</string>
+    <string name="downloads_empty_title">No downloads yet</string>
+    <string name="downloads_empty_body">Your downloads and their progress will appear here once the download engine is ready.</string>
+    <string name="library_title">Library</string>
+    <string name="library_empty_title">Your library is empty</string>
+    <string name="library_empty_body">Videos, audio and images you download will be organized here.</string>
+
+    <!-- More -->
+    <string name="more_title">More</string>
+    <string name="more_settings">Settings</string>
+    <string name="more_about">About ATLAS</string>
+    <string name="more_browser">Browser</string>
+    <string name="more_private_folder">Private folder</string>
+    <string name="more_storage">Storage manager</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_general">General</string>
+    <string name="settings_language">Language</string>
+    <string name="language_system">System default</string>
+    <string name="language_arabic" translatable="false">العربية</string>
+    <string name="language_english" translatable="false">English</string>
+    <string name="settings_dark_theme">Dark mode</string>
+    <string name="settings_dark_theme_desc">The black and gold look. Turn it off for a light variant.</string>
+
+    <!-- About -->
+    <string name="about_title">About ATLAS</string>
+    <string name="about_version">Version %1$s</string>
+    <string name="about_description">ATLAS is a free download manager and media player for Android.</string>
+</resources>

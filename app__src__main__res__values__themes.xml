@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Shown by the system while the app starts, then replaced by Theme.Atlas. -->
+    <style name="Theme.Atlas.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/atlas_black</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+        <item name="postSplashScreenTheme">@style/Theme.Atlas</item>
+    </style>
+
+    <!-- AppCompat base is required for per-app language switching. All UI is drawn by Compose. -->
+    <style name="Theme.Atlas" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@color/atlas_black</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>

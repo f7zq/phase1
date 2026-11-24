@@ -1,3 +1,6 @@
+> **Flat layout:** all files are stored at the repo root with `__` in place of `/` (e.g. `app__src__main__AndroidManifest.xml`).
+> Run `restore.bat` (Windows) or `./restore.sh` (Mac/Linux) after cloning to rebuild the real project in a folder named `ATLAS_project`, then open that folder in Android Studio.
+
 # ATLAS (Android)
 
 Download manager and media player. Kotlin + Jetpack Compose, black & gold liquid-glass UI.

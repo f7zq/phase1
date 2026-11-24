@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tagline">حمّل. نظّم. شغّل.</string>
+    <string name="cd_back">رجوع</string>
+    <string name="badge_coming_soon">قريبًا</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_downloads">التنزيلات</string>
+    <string name="nav_library">المكتبة</string>
+    <string name="nav_more">المزيد</string>
+
+    <!-- Home -->
+    <string name="home_hero_title">ابدأ بمشاركة رابط</string>
+    <string name="home_hero_body">قريبًا ستتمكن من مشاركة رابط فيديو من أي تطبيق إلى ATLAS، وعرض تفاصيله، وتحميله فيديو أو صوتًا فقط.</string>
+    <string name="home_features_title">ما الذي ينتظرك</string>
+    <string name="feature_video_audio_title">تحميل الفيديو والصوت</string>
+    <string name="feature_video_audio_body">حمّل الفيديو كاملًا، أو المسار الصوتي كاملًا فقط.</string>
+    <string name="feature_playlists_title">قوائم التشغيل</string>
+    <string name="feature_playlists_body">اختر الفيديوهات التي تريدها وحمّلها بالترتيب.</string>
+    <string name="feature_library_title">مكتبة الوسائط</string>
+    <string name="feature_library_body">شغّل ملفاتك ونظّمها عبر المشغّل المدمج.</string>
+    <string name="feature_browser_title">المتصفح المدمج</string>
+    <string name="feature_browser_body">تصفّح الإنترنت وأرسل الروابط مباشرة إلى التنزيلات.</string>
+
+    <!-- Downloads / Library -->
+    <string name="downloads_title">التنزيلات</string>
+    <string name="downloads_empty_title">لا توجد تنزيلات بعد</string>
+    <string name="downloads_empty_body">ستظهر هنا تنزيلاتك وتقدّمها عند اكتمال محرك التحميل.</string>
+    <string name="library_title">المكتبة</string>
+    <string name="library_empty_title">المكتبة فارغة</string>
+    <string name="library_empty_body">ستُنظَّم هنا الفيديوهات والملفات الصوتية والصور التي تحمّلها.</string>
+
+    <!-- More -->
+    <string name="more_title">المزيد</string>
+    <string name="more_settings">الإعدادات</string>
+    <string name="more_about">حول ATLAS</string>
+    <string name="more_browser">المتصفح</string>
+    <string name="more_private_folder">المجلد الخاص</string>
+    <string name="more_storage">إدارة التخزين</string>
+
+    <!-- Settings -->
+    <string name="settings_title">الإعدادات</string>
+    <string name="settings_general">عام</string>
+    <string name="settings_language">اللغة</string>
+    <string name="language_system">لغة النظام</string>
+    <string name="settings_dark_theme">الوضع الداكن</string>
+    <string name="settings_dark_theme_desc">المظهر الأسود والذهبي. أوقفه لاستخدام مظهر فاتح.</string>
+
+    <!-- About -->
+    <string name="about_title">حول ATLAS</string>
+    <string name="about_version">الإصدار %1$s</string>
+    <string name="about_description">ATLAS مدير تنزيل ومشغّل وسائط مجاني لأجهزة أندرويد.</string>
+</resources>
